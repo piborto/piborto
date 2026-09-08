@@ -31,7 +31,3 @@ Estudante de **Sistemas de Informação na PUC-Campinas** e atualmente atuando c
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou projetos na área de tecnologia! 😊
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piborto&show_icons=true&theme=dark" alt="Pietra's GitHub Stats">
-</div>
