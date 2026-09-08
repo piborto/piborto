@@ -33,5 +33,5 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piborto&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=piborto&show_icons=true&theme=dark" alt="Pietra's GitHub Stats">
 </div>
