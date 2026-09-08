@@ -9,27 +9,29 @@
 
 ## 👋 Olá!
 
-Estudante de **Sistemas de Informação na PUC-Campinas** e atualmente atuando como **Estagiária de Suporte Técnico e Sistemas no ITAL**. Sou apaixonada por tecnologia, desenvolvimento backend e por criar soluções práticas que resolvem problemas reais. Estou sempre em busca de novos desafios para expandir meus conhecimentos.
+Estudante de **Sistemas de Informação na PUC-Campinas** e atualmente atuando como **Estagiária de Suporte Técnico e Sistemas no ITAL**. Sou apaixonada por tecnologia, desenvolvimento e por criar soluções práticas que resolvem problemas reais.
 
 ## 🚀 Habilidades Técnicas
 
 - Linguagens de Programação: 
     [![My Skills](https://skillicons.dev/icons?i=php,python,c,dart,javascript,html,css)](https://skillicons.dev)
-- Frameworks e Ferramentas Mobile/Web: 
-    [![My Skills](https://skillicons.dev/icons?i=flutter,angular)](https://skillicons.dev)
+- Frameworks e Tecnologias: 
+    [![My Skills](https://skillicons.dev/icons?i=flutter,angular,docker,git,github,vscode)](https://skillicons.dev)
 - Banco de Dados: 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
-- Inteligência Artificial & Outros: 
-    [![My Skills](https://skillicons.dev/icons?i=copilot)](https://skillicons.dev) *(Gemini e Office)*
+- Ferramentas de Apoio: 
+    [![My Skills](https://skillicons.dev/icons?i=copilot)](https://skillicons.dev) *(Gemini, Jira, Trello)*
 
 ## 🏆 Projetos Destacados
 
-- [App Comunidade / Igreja](https://github.com/piborto): Aplicativo mobile desenvolvido em **Flutter e Dart** integrado com sistema web em **Angular** para gerenciamento.
-- [Sistema Bibliotecário](https://github.com/piborto): Aplicação web para controle de biblioteca utilizando **PHP, JavaScript, HTML, CSS e MySQL**.
-- [Jogos e Automações em Python/C](https://github.com/piborto): Projetos acadêmicos focados em lógica de programação, estruturas de dados e automação de processos.
+- [Gestão de Documentos (ITAL)](https://github.com/piborto/gestao_de_documentos): Projeto desenvolvido de forma autônoma no meu estágio no ITAL, focado em otimizar rotinas e processos internos.
+- [Projeto Integrador - App de RPG](https://github.com/egili/Projeto-Integrador-3-PUC): Desenvolvimento acadêmico de um aplicativo com geolocalização utilizando **Flutter, Dart e NoSQL**.
+- [Projeto Integrador - Sistema de Biblioteca](https://github.com/egili/Projeto-Integrador-2): Sistema web desenvolvido para gerenciamento de biblioteca utilizando **PHP, JavaScript, HTML, CSS e MySQL**.
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansiosa para ouvir de você! 😊
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou projetos na área de tecnologia! 😊
 
-![piborto GitHub stats](https://github-readme-stats.vercel.app/api?username=piborto&show_icons=true&theme=merko)
+<br>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=piborto&show_icons=true&theme=merko&hide_border=true&include_all_commits=true">
+</div>
